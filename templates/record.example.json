@@ -1,0 +1,58 @@
+{
+  "id": "example-opportunity",
+  "company": "Example Company",
+  "role": "Example Role",
+  "location": "Example City",
+  "canonicalUrl": "https://example.invalid/jobs/example",
+  "jobId": "example",
+  "source": "Replace with a verified official source",
+  "phase": "QUEUE",
+  "status": "PREPARING",
+  "rawStatus": "PREPARING",
+  "attemptCount": 0,
+  "addedAt": "2025-01-01T00:00:00Z",
+  "lastUpdatedAt": "2025-01-01T00:00:00Z",
+  "readyAt": null,
+  "approvedAt": null,
+  "submittedAt": null,
+  "fitScore": null,
+  "approvedScope": null,
+  "approvalNote": null,
+  "review": {
+    "required": true,
+    "status": "PENDING"
+  },
+  "research": {
+    "summary": "Replace with verified research.",
+    "checkedAt": null,
+    "jobOpenVerified": false,
+    "duplicateCheckPassed": false,
+    "sources": [],
+    "companyInsights": [],
+    "roleRequirements": [],
+    "candidateMatches": [],
+    "knownGaps": [],
+    "fitRationale": "Not assessed."
+  },
+  "resume": {
+    "ready": false,
+    "submitted": false,
+    "fileName": null,
+    "localPath": null,
+    "text": null,
+    "sha256": null
+  },
+  "coverLetter": {
+    "ready": false,
+    "submitted": false,
+    "fileName": null,
+    "localPath": null,
+    "text": null,
+    "sha256": null
+  },
+  "nextAction": "Verify the official posting and gather candidate-supported evidence.",
+  "blocker": null,
+  "confirmation": null,
+  "history": [],
+  "notes": "Placeholder only. Do not add this example to live data."
+}
